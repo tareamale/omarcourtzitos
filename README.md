@@ -32,7 +32,7 @@ El objetivo de este repositorio es recopilar información sobre Omar Courtz, con
 Nombre: Adriano Centurion
 ## Estado actual del proyecto
 
-El proyecto se encuentra en desarrollo. Actualmente, contiene información general sobre Omar Courtz, su estilo musical y su trayectoria. Con mas tiempo y dedicacion se podria añadir mas detalles acerca del cantante
+El proyecto se encuentra en desarrollo. Actualmente, contiene información general sobre Omar Courtz, su estilo musical y su trayectoria. Con mas tiempo y dedicacion se podria añadir mas detalles acerca del cantante asi como tambien una pagina mas detallada y/o ordenada.
 ## Conclusión
 
 Omar Courtz es uno de los artistas que forman parte de la evolución de la música urbana latina. Su estilo y sus colaboraciones contribuyen a que su música llegue a diferentes públicos. Conocer su trayectoria permite comprender mejor su trabajo y su participación en la escena musical actual.
